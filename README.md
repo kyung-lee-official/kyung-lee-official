@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lee-kyung
+- 👋 Hi, I’m @kyung-lee-official
 - 👀 I’m interested in React, .NET Core, Unity.
 - 🌱 I’m currently learning all above.
 - 💞️ I’m looking to collaborate on indie game dev.
