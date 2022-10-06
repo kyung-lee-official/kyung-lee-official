@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kyung-lee-official
-- 👀 I’m interested in React, .NET Core, Unity.
+- 👀 I’m interested in React, STM32.
 - 🌱 I’m currently learning all above.
-- 💞️ I’m looking to collaborate on indie game dev.
+<!--- - 💞️ I’m looking to collaborate on indie game dev. --->
 - 📫 How to reach me: kyung.lee.official@outlook.com
 
 <!---
